@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O objetivo deste desafio é desenvolver um sistema de controle de estoque de produtos com um backend em Java ou Kotlin usando Spring Boot e um frontend em React. O sistema deve ser capaz de integrar-se com a API pública de [REST Countries](https://restcountries.com/) para agregar informações de localidade dos fornecedores dos produtos cadastrados.
+O objetivo deste desafio é desenvolver um sistema de controle de estoque de produtos com um backend em (Java/Kotlin ou NodeJs) e um frontend em React. O sistema deve ser capaz de integrar-se com a API pública de [REST Countries](https://restcountries.com/) para agregar informações de localidade dos fornecedores dos produtos cadastrados.
 
 ## Funcionalidades do Sistema
 
@@ -31,11 +31,11 @@ O backend deve expor APIs para um CRUD de Produtos e Fornecedores. A estrutura d
 
 #### Obrigatório:
 
-- Implementação em Java ou Kotlin
-- Utilização do Spring Boot
+- Implementação em Java/Kotlin ou NodeJs
+- Utilização do Spring Boot caso implementação for em Java/Kotlin
 - Uso de banco de dados relacional (e NoSQL, se necessário)
 - Documentação da API com Swagger
-- Testes automatizados com JUnit
+- Testes automatizados
 - Inclusão de um arquivo `README.md` com instruções para executar a aplicação e os testes
 
 #### Desejável:
